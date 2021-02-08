@@ -1,0 +1,29 @@
+.material-icons {
+    
+    color:green;
+    text-decoration: none;
+    
+    padding: 35px 65px;
+    position: relative;
+    display: inline-block;
+    border-radius: 2px;
+
+  }
+  
+  .material-icons:hover {
+    background: rgb(202, 206, 209);
+  }
+  
+  .count{
+    position: relative;
+    top: -50px;
+    right: 70px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    color:white;
+    background-color: red;
+    font-weight: bolder;
+    font-size: 15px;
+  }
+
+  
